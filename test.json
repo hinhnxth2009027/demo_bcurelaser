@@ -1,0 +1,46 @@
+{
+    "id": 1,
+    "name": "B-CURE LASER PRO",
+    "thumbnail": "https:\/\/www.bcurelaser.co.uk\/wp-content\/uploads\/2018\/12\/bcurepro_power.jpg",
+    "images": "[\"https:\/\/www.bcurelaser.co.uk\/wp-content\/uploads\/2018\/12\/bcurepro_power.jpg\",\"https:\/\/www.bcurelaser.co.uk\/wp-content\/uploads\/2018\/12\/B-Cure_laser_pro_Devicet_Right-1.jpg\",\"https:\/\/www.bcurelaser.co.uk\/wp-content\/uploads\/2018\/12\/B-Cure_Pro_device-1.jpg\",\"https:\/\/www.bcurelaser.co.uk\/wp-content\/uploads\/2018\/12\/image4.jpg\"]",
+    "description": "<p>B-Cure Laser Pro l&agrave; phi&ecirc;n b\u1ea3n m\u1ea1nh h\u01a1n B-Cure Laser Classic.&nbsp;B-Cure Laser Pro ph&ugrave; h\u1ee3p cho c&aacute;c \u1ee9ng d\u1ee5ng t\u1ea1i ph&ograve;ng kh&aacute;m c\u1ee7a c&aacute;c chuy&ecirc;n gia c\u0169ng nh\u01b0 s\u1eed d\u1ee5ng t\u1ea1i nh&agrave; v&agrave; \u0111\u1eb7c bi\u1ec7t \u0111\u01b0\u1ee3c ch\u1ec9 \u0111\u1ecbnh \u0111\u1ec3 \u0111i\u1ec1u tr\u1ecb v\u1ebft th\u01b0\u01a1ng v&agrave; v\u1ebft lo&eacute;t.<\/p>\r\n\r\n<p>B-Cure Laser Pro c&oacute; th\u1ec3 \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng nh\u01b0 m\u1ed9t ph\u01b0\u01a1ng ph&aacute;p \u0111i\u1ec1u tr\u1ecb h\u1ed7 tr\u1ee3 cho c&aacute;c t&igrave;nh tr\u1ea1ng nh\u01b0 h\u1ed9i ch\u1ee9ng \u1ed1ng c\u1ed5 tay, \u0111au c\u01a1 x\u01a1 h&oacute;a, \u0111au \u0111\u1ea7u g\u1ed1i, \u0111au c\u1ed5, \u0111au l\u01b0ng d\u01b0\u1edbi v&agrave; tr&ecirc;n, v\u1ebft th\u01b0\u01a1ng, v\u1ebft lo&eacute;t do t&igrave; \u0111&egrave;, lo&eacute;t do ti\u1ec3u \u0111\u01b0\u1eddng v&agrave; m\u1ed9t s\u1ed1 ch\u1ea5n th\u01b0\u01a1ng th\u1ec3 thao.<\/p>\r\n\r\n<p>B-Cure Laser Pro ph&ugrave; h\u1ee3p \u0111\u1ec3 \u0111i\u1ec1u tr\u1ecb c&aacute;c v\u1ea5n \u0111\u1ec1 c\u1ea5p t&iacute;nh v&agrave; m&atilde;n t&iacute;nh.<\/p>\r\n",
+    "sort_number": 1,
+    "created_at": "2021-04-03T00:00:00.000000Z",
+    "updated_at": null,
+    "deleted_at": null,
+    "specifications": [
+        {
+            "id": 1,
+            "product_id": 1,
+            "property": "Lo\u1ea1i laser",
+            "units": "-",
+            "value": "GaAIAs",
+            "notes": "Diode laser tr\u1ea1ng th\u00e1i r\u1eafn",
+            "created_at": "2021-04-03T00:00:00.000000Z",
+            "updated_at": null,
+            "deleted_at": null
+        },
+        {
+            "id": 2,
+            "product_id": 1,
+            "property": "C\u00f4ng su\u1ea5t t\u1ed1i \u0111a",
+            "units": "mW",
+            "value": "250",
+            "notes": "t\u1ed1i \u0111a",
+            "created_at": "2021-04-03T00:00:00.000000Z",
+            "updated_at": null,
+            "deleted_at": null
+        },
+        {
+            "id": 3,
+            "product_id": 1,
+            "property": "b\u01b0\u1edbc s\u00f3ng (h\u1ed3ng ngo\u1ea1i)",
+            "units": "nm",
+            "value": "808",
+            "notes": "-",
+            "created_at": "2021-04-03T00:00:00.000000Z",
+            "updated_at": null,
+            "deleted_at": null
+        }
+    ]
+}
